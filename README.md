@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mylesodey
-- 👀 I’m interested in Graphics Design, UI/UX Design and Programming
-- 🌱 I’m currently learning Angular.js and C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Programming, Graphics Design, 3D Modeling and UI/UX Design.
+- 🌱 I’m currently learning React.js and Blender
+- 💞️ I’m looking to collaborate on any web project
 - 📫 How to reach me on instagram @mylesodey
 
 <!---
